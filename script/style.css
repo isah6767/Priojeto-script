@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+} 
+ .H1{
+    margin-top: 70px;
+    margin-left: 40%;
+    color: rgb(255, 191, 0);
+    
+}
+.input{
+    margin-left: 100px;
+    border-radius: 10px;
+    height: 30px;
+}
+.container{
+    margin-top: 70px;
+    align-items: center;
+    margin-left: 35%;
+    width: 400px;
+    height: 200px ;
+    border: solid rgb(0, 0, 0);
+    border-radius: 15px;
+}
+.paragrafo{
+    margin-left: 50px;
+   padding: 30px;
+}
+.strong{
+    color: black;
+}
+.button{
+    margin-left: 140px;
+    color: white;
+    background: black;
+    width: 90px;
+    height: 30px;
+border-radius: 15px;
+}
